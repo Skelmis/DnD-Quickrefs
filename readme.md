@@ -24,7 +24,7 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 - Here at the edge of the abyss, we stand united. For every fallen friend, we fight twice as hard
 - Our journey together may end, but we can at least pave the way for those that come after
 - This might be our last stand, but it won't be our final chapter. Let's write an ending they'll never forget
-- No retest, no surrender. We've come too far to let the story end here.
+- No retreat, no surrender. We've come too far to let the story end here.
 
 ---
 
@@ -32,8 +32,8 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 
 - Your intellect is like a candle in the wind, easily extinguished
 - I've met doorstops with more personality
-- Your fashion sense is.. bold, to say the least. Are mismatched socks the new trend?
-- Your ideas are intriguing. I'm fascinated by the thought of someone being so consistently wrong.
+- Your fashion sense is... bold, to say the least. Are mismatched socks the new trend?
+- Your ideas are intriguing. I'm fascinated by the thought of someone being so consistently wrong
 - Your proof that evolution can go in reverse
 - Yours jokes have the comedic depth of a puddle
 - Are you a magician? Because every time you speak, everyone around you disappears
@@ -53,7 +53,7 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 - The heart's fortress may seem strong, but its true strength lies in the courage to lower the drawbridge and welcome others in
 - I'm a collection of fragmented mirrors, hoping to be pieced together into a reflection that holds the depth and authenticity of a true self
 - I'm in a labyrinth of what-ifs, and each turn I take is one more step away from the path I need to walk
-- Failure is not th end; it's the quiet pause before the next attempt
+- Failure is not the end; it's the quiet pause before the next attempt
 
 ---
 
@@ -76,4 +76,3 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 - Every step you take brings you closer to your end, and I take great pleasure in guiding you there
 - I'll watch the light fade from your eyes with the same detachment I use to sniff out candles
 - The key to enjoying life is to relish every moment, even the unsettling ones. I'm going to relish every bit of this moment, no matter how unsettling it becomes
-- 
