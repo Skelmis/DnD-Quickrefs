@@ -31,3 +31,17 @@ This highly ornate armor offers excellent protection to its owner (+1 full plate
 When the wearer of a DoomPlate drops to 0HP it will not collapse. The bearer of a doomplate will be able to continue fighting for three rounds, automatically attacking the nearest target. During this time, its bearer will normally make death saving throws. The bearer is immune to frightened or charmed in these rounds.
 
 ---
+
+###### Gleaming Canopy
+
+Wondrous item (pendant)
+Rare
+Requires attunement by paladin or cleric
+
+This ornamental pendant crafted from shimmering glass resembles a delicate leaf, radiating an aura of natural grace and serenity.
+
+**Aura of renewal**: Whenever the attuned wielders ability or spell causes an ally to be healed, a condition or curse to be removed, or a disease to be cured, that ally gains temporary hit points equal to the wielders spellcastying ability modifier.
+
+**Natures divinity**: Once per short rest, as a reaction to an ally being attacked the attuned wielder can cast *Shield of faith* without expending a spell slot
+
+---

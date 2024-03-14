@@ -1,0 +1,1 @@
+Quick simple loot tables
