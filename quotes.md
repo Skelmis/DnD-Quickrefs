@@ -14,6 +14,7 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 | [Positive last words](#positive-last-words) |
 |     [Vicious Mockery](#vicious-mockery)     |
 |             [Sad-ish](#Sad-ish)             |
+|            [Sinister](#sinister)            |
 |         [Flirtatious](#flirtatious)         |
 |        [Chilling quotes](#chilling)         |
 
@@ -60,6 +61,13 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 - I'm a collection of fragmented mirrors, hoping to be pieced together into a reflection that holds the depth and authenticity of a true self
 - I'm in a labyrinth of what-ifs, and each turn I take is one more step away from the path I need to walk
 - Failure is not the end; it's the quiet pause before the next attempt
+
+---
+
+#### Sinister
+
+- You've burnt the bridge you walked here on. The deal is done. Now they will suffer while you watch
+- Moral high ground is a luxury afforded to the weak. I stand on the precipicee, where morality dares not tread
 
 ---
 
