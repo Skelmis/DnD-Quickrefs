@@ -73,6 +73,7 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 - Are you a mimic? Because you've taken the form of my wildest desires
 - I must be a cleric because I feel the divine healing power of your presence
 - Are you a master of disguise? Because you've hidden the fact that you're stealing my heart
+- Is your name written in the starts? Because your beauty outshines even the brightest constellations
 
 ---
 

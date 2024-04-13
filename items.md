@@ -45,3 +45,19 @@ This ornamental pendant crafted from shimmering glass resembles a delicate leaf,
 **Natures divinity**: Once per short rest, as a reaction to an ally being attacked the attuned wielder can cast *Shield of faith* without expending a spell slot
 
 ---
+
+###### Misthunter Cloak
+
+Wondrous item
+Rare
+Requires attunement
+
+Woven with flowing tendrils of mist, this cloak is in a constant cycle of dispersal and reformation. This cloak has 3 charges and regains all expended charges daily at midnight.
+
+**Concealing mist**: As a bonus action, you can take the hide action, even if your only light obscured.
+
+**Living Shadows**: When a creature enters a space within 10 feet of you, you can expend 1 charge and use your reaction to cause a shadowy tendril to lash out at that creature. Make an attack roll (+7 to hit) dealing 3d6 necrotic on a hit.
+
+**Mistwalker**: As a bonus action, you can expend 2 charges to cast the *misty step* spell
+
+**Shadow's Toll**: You have vulnerability to radiant damage.
