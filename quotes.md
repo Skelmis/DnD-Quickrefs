@@ -61,13 +61,23 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 - I'm a collection of fragmented mirrors, hoping to be pieced together into a reflection that holds the depth and authenticity of a true self
 - I'm in a labyrinth of what-ifs, and each turn I take is one more step away from the path I need to walk
 - Failure is not the end; it's the quiet pause before the next attempt
+- The echo of your laughter haunts the chambers of my soul, a melody of joy turned to echoes of pain
+- Life's most profound ache is the longing for a love that was never meant to be
+- When dreams shatter like fragile glass, the shards pierce deeper then any blade
 
 ---
 
 #### Sinister
 
 - You've burnt the bridge you walked here on. The deal is done. Now they will suffer while you watch
-- Moral high ground is a luxury afforded to the weak. I stand on the precipicee, where morality dares not tread
+- Moral high ground is a luxury afforded to the weak. I stand on the precipice, where morality dares not tread
+- I don't seek victory; I demand it, and I take it from the trembling hands of the defeated
+- A hero? Please. Some of us where born to be greater
+- Do not fear me, I am a man of principle. The principles, however, you should fear
+- Life doesn't play fair. Why should I?
+- Maybe if you looked a little closer you'd realise just how beautiful the dark is
+- Do not pity me, I had a choice. I saw light and I rejected it
+- 
 
 ---
 
