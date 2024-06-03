@@ -12,6 +12,9 @@ https://darkvisionstudios.co.uk/generators/small-town-generator/
 ###### Fight generator
 https://koboldplus.club/
 
+###### Owlbear rodeo
+https://www.owlbear.rodeo/
+
 ###### Theives guild
 
 Tables n generators for:
