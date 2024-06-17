@@ -69,3 +69,7 @@ https://www.fantasynamegenerators.com/
 Old school dungeon map creator
 
 https://www.dungeonscrawl.com/
+
+###### A guide to running chases
+
+https://www.reddit.com/r/DMAcademy/comments/koax9x/a_guide_to_running_chase_encounters/
