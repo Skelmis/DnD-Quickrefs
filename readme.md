@@ -4,18 +4,33 @@ Quotes, encounters, etc
 
 ---
 
+### Quick links except I use them often
+
+###### Fight generator
+https://koboldplus.club/
+
+###### Virtual table-top
+
+https://app.roll20.net/editor/
+
+###### Dungeon scrawl
+
+Old school dungeon map creator
+
+https://www.dungeonscrawl.com/
+
 ### Quick links
 
 ###### Small town generator
 https://darkvisionstudios.co.uk/generators/small-town-generator/
 
-###### Fight generator
-https://koboldplus.club/
-
 ###### Owlbear rodeo
+
+Map thing that has nice visuals
+
 https://www.owlbear.rodeo/
 
-###### Theives guild
+###### Thieves guild
 
 Tables n generators for:
 - Spells
@@ -63,12 +78,6 @@ https://inkarnate.com/
 For when your party put you on the spot for names
 
 https://www.fantasynamegenerators.com/
-
-###### Dungeon scrawl
-
-Old school dungeon map creator
-
-https://www.dungeonscrawl.com/
 
 ###### A guide to running chases
 
