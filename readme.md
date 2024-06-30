@@ -66,3 +66,9 @@ https://www.fantasynamegenerators.com/
 Old school dungeon map creator
 
 https://www.dungeonscrawl.com/
+
+###### Encounters on the road
+
+A simple group of 100 pre-made encounters
+
+https://drive.google.com/file/d/1MBJ72TrRDMJ4SrJTVgSXSEoJeECiSNZl/view
