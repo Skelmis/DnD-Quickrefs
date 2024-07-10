@@ -17,6 +17,7 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 |            [Sinister](#sinister)            |
 |         [Flirtatious](#flirtatious)         |
 |        [Chilling quotes](#chilling)         |
+|     [I loot the body](#i-loot-the-body)     |
 
 ---
 
@@ -101,3 +102,14 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 - Every step you take brings you closer to your end, and I take great pleasure in guiding you there
 - I'll watch the light fade from your eyes with the same detachment I use to sniff out candles
 - The key to enjoying life is to relish every moment, even the unsettling ones. I'm going to relish every bit of this moment, no matter how unsettling it becomes
+
+---
+
+#### I loot the body
+
+- A small, hand painted portrait of their family
+- A folded parchment from the monastery thanking them for helping the orphans
+- A worn and frayed ribbon holding together a rolled up love letter, ink fading with time
+- A wooden toy figure and a note scribbled in a childs handwriting: "So thou art not lonely"
+- A brass keychain with initials in a heart, dated from years ago
+- A worn leather strap bearing the badge of the local town watches volunteer brigade
