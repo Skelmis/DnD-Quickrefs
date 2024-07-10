@@ -102,6 +102,7 @@ These quotes are sourced from quite literally anywhere and everywhere and I am o
 - Every step you take brings you closer to your end, and I take great pleasure in guiding you there
 - I'll watch the light fade from your eyes with the same detachment I use to sniff out candles
 - The key to enjoying life is to relish every moment, even the unsettling ones. I'm going to relish every bit of this moment, no matter how unsettling it becomes
+- Even in defeat, I will haunt your every step
 
 ---
 

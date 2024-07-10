@@ -61,3 +61,15 @@ Woven with flowing tendrils of mist, this cloak is in a constant cycle of disper
 **Mistwalker**: As a bonus action, you can expend 2 charges to cast the *misty step* spell
 
 **Shadow's Toll**: You have vulnerability to radiant damage.
+
+---
+
+###### Do Not Read
+
+The party encounters the skeleton of an unidentified stranger, there are no signs of how or why the person died. A medical exam reveals that despite the clean appearance of the bones the person died only a few days ago. In the skeletons pocket is a red note folded into a square marked "DO NOT READ"
+
+**If read** `1d4`:
+1. Cursed. The reader unwittingly enters into a contract and becomes bound in service to a dark mystical patron.
+2. Last words. The note contains final instructions from the skeleton to bury their bones at a remote location, where a hidden treasure can be collected
+3. Secret. The note reveals a crucial piece of information or a dramatic narrative twist.
+4. Wanted. The note includes a detailed dossier on the party, outlining weaknesses and known contacts. `1d6` are now pursuing the party or close NPC's.
