@@ -19,6 +19,12 @@ Old school dungeon map creator
 
 https://www.dungeonscrawl.com/
 
+###### Encounter tracker
+
+A nice way to build and track fights
+
+https://improvedinitiative.app/
+
 ### Quick links
 
 ###### Small town generator
