@@ -27,6 +27,12 @@ https://improvedinitiative.app/
 
 ### Quick links
 
+###### 5E tools
+
+https://5e.tools/
+
+Bunch of useful stuff + free books haha
+
 ###### Small town generator
 https://darkvisionstudios.co.uk/generators/small-town-generator/
 
