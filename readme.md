@@ -61,6 +61,10 @@ Things like world maps, history, diplomacy webs, wikis, family trees etc
 
 https://www.worldanvil.com/
 
+###### Pre made adventurer stat blocks
+
+https://homebrewery.naturalcrit.com/share/1mO3-ZInUCWdLnoxnpt_-PKAxRFKUV5YiGhKi4zhuusYM
+
 ###### Table top audio
 
 https://tabletopaudio.com/
