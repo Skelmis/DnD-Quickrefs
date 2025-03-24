@@ -68,8 +68,13 @@ https://www.worldanvil.com/
 
 ###### Pre made adventurer stat blocks
 
+Characters:
 https://homebrewery.naturalcrit.com/share/1mO3-ZInUCWdLnoxnpt_-PKAxRFKUV5YiGhKi4zhuusYM
+
 https://www.kassoon.com/dnd/5e/premade-characters/
+
+Swarms:
+https://homebrewery.naturalcrit.com/share/0_zPhw7YPjfp
 
 ###### Table top audio
 
